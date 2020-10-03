@@ -1,7 +1,7 @@
 # Customized Loan Information Comparison Platform 
 
 ## 아이템 소개
-![chatbot](./blob/master/chatbot.png)
+![chatbot](https://github.com/daysiee/financial-chatbot-project/blob/master/chatbot.png)
 - 고객맞춤형 금융상품 비교 플랫폼 '흥챗뿡봇'
 - 전 국민의 SNS 플랫폼, '카카오톡' 기반 챗봇
 - 고객별 대출 정보 제공 카톡챗봇 서비스
