@@ -12,6 +12,7 @@ def publicloan():
     chrome_options.add_argument("--disable-gpu")
     chrome_options.add_argument("lang=ko_KR")
     chrome_options.add_argument("user-agent")
+    chrome_options.add_argument("--disable-web-security") # CORS 해결
     driver = webdriver.Chrome('./chromedriver', chrome_options=chrome_options)
     driver.implicitly_wait(3)
     chrome_options.add_argument('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36')
