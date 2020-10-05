@@ -20,15 +20,17 @@
 
 ## 서비스 개요
 ### 1. 공적대출
+![public_loan](https://github.com/daysiee/financial-chatbot-project/blob/master/public_loan.jpg)
 ### 2. 일반신용대출
+![credit_loan](https://github.com/daysiee/financial-chatbot-project/blob/master/credit_loan.jpg)
 </br>
 
 ## 아키텍처
+![architecture](https://github.com/daysiee/financial-chatbot-project/blob/master/architecture.jpg)
 </br>
 
 ## 비즈니스 모델
--
--
+![biz_model](https://github.com/daysiee/financial-chatbot-project/blob/master/biz_model.jpg)
 </br>
 
 ## 데모
