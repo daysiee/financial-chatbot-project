@@ -35,4 +35,4 @@
 </br>
 </br>
 ## 데모
-[demo_video](https://www.youtube.com/watch?v=ZZAjTsU87os)
+[데모비디오 링크](https://www.youtube.com/watch?v=ZZAjTsU87os)
