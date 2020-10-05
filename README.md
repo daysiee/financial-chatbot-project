@@ -34,6 +34,5 @@
 ![biz_model](https://github.com/daysiee/financial-chatbot-project/blob/master/biz_model.jpg)
 </br>
 </br>
-</br>
 ## 데모
--
+[demo](https://www.youtube.com/watch?v=ZZAjTsU87os)
