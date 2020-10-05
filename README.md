@@ -35,4 +35,4 @@
 </br>
 </br>
 ## Demo
-[Demo 링크](https://www.youtube.com/watch?v=ZZAjTsU87os)
+[DemoVideo 링크](https://www.youtube.com/watch?v=ZZAjTsU87os)
